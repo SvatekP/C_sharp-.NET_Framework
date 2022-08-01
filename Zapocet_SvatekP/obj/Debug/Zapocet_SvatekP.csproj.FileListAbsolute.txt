@@ -1,0 +1,37 @@
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csprojAssemblyReference.cache
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Rezervace.resources
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Form1.resources
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.NovyZakaznik.resources
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Properties.Resources.resources
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.UpravaZakaznik.resources
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csproj.GenerateResource.cache
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csproj.CoreCompileInputs.cache
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.exe.config
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.exe
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.pdb
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.exe
+C:\Users\pajas\source\repos\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.pdb
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.exe.config
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.exe
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.pdb
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Rezervace.resources
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Form1.resources
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.NovyZakaznik.resources
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Properties.Resources.resources
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.exe
+D:\Visual Studio\Projects\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.pdb
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.exe.config
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.exe
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\bin\Debug\Zapocet_SvatekP.pdb
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csprojAssemblyReference.cache
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Rezervace.resources
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Form1.resources
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.NovyZakaznik.resources
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.Properties.Resources.resources
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csproj.GenerateResource.cache
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.csproj.CoreCompileInputs.cache
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.exe
+C:\Users\pajas\Downloads\Zapocet_SvatekP\Zapocet_SvatekP\obj\Debug\Zapocet_SvatekP.pdb
